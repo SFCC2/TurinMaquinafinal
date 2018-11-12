@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 public class Ejecutar {
 
     public int inicializador() {
-        int Max = (28) + 1;// cota sup mas 1
+        int Max = (28) + 1;// cota sup mas 1   
         int Min = 10;
 
         int A = (int) (Math.random() * 30 + 10);
